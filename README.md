@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Little Lemon Website project was developed as part of Meta's Coursera Front-End Development course. It serves as the final project for the Front-End Development Track.
 
+[META: Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone)
 ## Available Scripts
 
 In the project directory, you can run:
